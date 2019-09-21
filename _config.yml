@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Fábio F. O. Silva"
-  avatar           : "profile.png"
+  avatar           : "http://www.gravatar.com/avatar/3b446a07db33a3ef8363d9374185b8d8.png?s=720"
   bio              : "Fábio Silva is a M.Sc. student at UFCG. He has been researching on security aspects of cloud computing as part of research and development projects with academy and industry for the last 3 years."
   location         : "Campina Grande, Paraiba - Brazil"
   employer         :
